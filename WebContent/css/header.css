@@ -1,0 +1,127 @@
+#total_div{
+	position:absolute; text-align:center; font-size:44px; height: 55px; width: 250px; left: 1100px; top: 130px; right: auto; bottom: auto;border: 5px solid red;
+}
+
+#main_div {
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	left: auto;
+	top: auto;
+	right: auto;
+	bottom: auto;
+}
+#clock {
+	position: absolute;
+	height: 70px;
+	width: 180px;
+	left: 2000px;
+	top: 18px;
+	right: auto;
+	bottom: auto;
+	border-style: dotted;
+	 border-radius: 5px;
+}
+#print_tab_div 
+{
+	height:1000px;
+	width: 240px;
+}
+
+#tab_div {
+	position: absolute;
+	height:1000px;
+	width: 440px;
+	left: 350px;
+	top: 100px;
+	right: auto;
+	bottom: auto;
+	
+}
+#p_tab_div {
+	position: absolute;
+	height:1000px;
+	width: 440px;
+	left: 350px;
+	top: 100px;
+	right: auto;
+	bottom: auto;
+	background-image: url("img/pizza.png");
+}
+#tab2_div {
+	position: absolute;
+	height:975px;
+	width: 440px;
+	left: 900px;
+	top: 100px;
+	right: auto;
+	bottom: auto;
+		
+	
+}
+
+#p_tab2_div {
+	position: absolute;
+	height:975px;
+	width: 440px;
+	left: 900px;
+	top: 100px;
+	right: auto;
+	bottom: auto;
+		background-image: url("img/pizza.png");
+	
+}
+#tab3_div {
+	position: absolute;
+	height:500px;
+	width: 440px;
+	left: 1455px;
+	top: 100px;
+	right: auto;
+	bottom: auto;
+		
+}
+
+#p_tab3_div {
+	position: absolute;
+	height:500px;
+	width: 440px;
+	left: 1455px;
+	top: 100px;
+	right: auto;
+	bottom: auto;
+		background-image:url("img/pizza.png");
+	
+}
+#col1
+{
+	position: inherit;
+	height:750px;
+	width: 350px;
+	left: 20px;
+	
+}
+
+#col2
+{	position: inherit;
+	height:750px;
+	width: 350px;
+	left: 50px;
+	
+}
+
+#col3
+{	position: inherit;
+	height:750px;
+	width: 350px;
+	left: 50px;
+	
+}
+
+#proceed
+{	position: inherit;
+	height:750px;
+	width: 350px;
+	left: 120px;
+	top:600px;
+}
